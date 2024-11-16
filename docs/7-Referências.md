@@ -8,3 +8,4 @@
 - ASSOCIAÇÃO DOS DEFICIENTES FÍSICOS DE POÇOS DE CALDAS (ADEFIP). Missão e Visão. Disponível em: https://www.adefip.org.br/missaovisao. Acesso em: 7 set. 2024.
 - BEM PARANÁ. Brasil registra pelo menos 30 mil novos casos de paralisia cerebral por ano. 2023. Disponível em: https://www.bemparana.com.br/noticia/brasil-registra-pelo-menos-30-mil-novos-casos-de-paralisia-cerebral-por-ano. Acesso em: 2 out. 2024.
 - PEQUENO PRÍNCIPE. Brasil registra pelo menos 30 mil novos casos de paralisia cerebral por ano. 2023. Disponível em: https://pequenoprincipe.org.br/noticia/brasil-registra-pelo-menos-30-mil-novos-casos-de-paralisia-cerebral-por-ano/. Acesso em: 2 out. 2024.
+- ORGANIZAÇÃO DAS NAÇÕES UNIDAS. Transformando nosso mundo: a Agenda 2030 para o Desenvolvimento Sustentável. Resolução A/RES/70/1. 2015. Disponível em: https://www.un.org/sustainabledevelopment/. Acesso em: 16 nov. 2024.
