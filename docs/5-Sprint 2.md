@@ -6,11 +6,11 @@ Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idad
 
  Sub-objetivos:
 3.8: Alcançar a cobertura universal de saúde, incluindo o acesso a serviços de saúde essenciais de qualidade.
-** Por quê? **
+**Por quê?**
 O projeto busca melhorar os serviços de reabilitação e intervenções multidisciplinares para pessoas com deficiência, garantindo acesso a atendimento especializado e personalizado.
 
 3.C: Aumentar o financiamento da saúde e a capacitação de profissionais de saúde.
-** Por quê? **
+**Por quê?**
 A implementação de tecnologias melhora a formação dos profissionais da ADEFIP, capacitando-os a oferecer serviços mais eficientes e modernos.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -21,11 +21,11 @@ Garantir a educação inclusiva, equitativa e de qualidade, e promover oportunid
 
 Sub-objetivos:
 4.5: Eliminar disparidades na educação e garantir acesso igualitário para pessoas com deficiência.
-** Por quê? **
+**Por quê?**
 O projeto visa contribuir para a inclusão escolar, especialmente ao desenvolver soluções tecnológicas que melhoram o aprendizado e a interação para crianças com deficiência.
 
 4.A: Construir instalações educacionais inclusivas que atendam às necessidades de pessoas com deficiência.
-** Por quê? **
+**Por quê?**
 O uso de tecnologias inovadoras na ADEFIP promove ambientes mais acessíveis e inclusivos, integrando ferramentas que facilitam o desenvolvimento educacional.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -36,11 +36,11 @@ Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego 
 
 Sub-objetivos:
 8.5: Garantir trabalho decente e produtivo para pessoas com deficiência, com remuneração igual por trabalho de igual valor.
-** Por quê? **
+**Por quê?**
 O projeto aborda a inclusão profissional, capacitando indivíduos com deficiência para participarem ativamente no mercado de trabalho.
 
 8.6: Reduzir a proporção de jovens sem emprego, educação ou formação.
-** Por quê? **
+**Por quê?**
 Ao investir em reabilitação e inclusão, o projeto cria oportunidades de desenvolvimento para jovens com deficiência, ajudando-os a se integrar à sociedade.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -51,11 +51,11 @@ Construir infraestruturas resilientes, promover a industrialização inclusiva e
 
 Sub-objetivos:
 9.4: Modernizar a infraestrutura para torná-la mais sustentável e eficiente.
-** Por quê? **
+**Por quê?**
 A solução tecnológica que está desenvolvimento modernizam os processos e serviços da ADEFIP, aumentando sua eficiência.
 
 9.5: Melhorar a capacidade tecnológica e promover a inovação.
-** Por quê? **
+**Por quê?**
 O projeto incentiva o uso de tecnologias avançadas para atender às necessidades específicas de pessoas com deficiência, fomentando a inovação no setor social.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -66,11 +66,11 @@ Reduzir as desigualdades dentro dos países e entre eles.
 
 Sub-objetivos:
 10.2: Promover a inclusão social, econômica e política para todos.
-** Por quê? **
+**Por quê?**
 O projeto empodera pessoas com deficiência por meio de soluções que promovem sua inclusão em diversas esferas sociais, educacionais e profissionais.
 
 10.3: Garantir oportunidades iguais, eliminando práticas discriminatórias.
-** Por quê? **
+**Por quê?**
 Ao criar soluções personalizadas, o projeto reduz barreiras enfrentadas por pessoas com deficiência, promovendo igualdade de oportunidades.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
@@ -81,11 +81,11 @@ Fortalecer os meios de implementação e revitalizar a parceria global para o de
 
 Sub-objetivos:
 17.16: Reforçar parcerias globais para o desenvolvimento sustentável.
-** Por quê? **
+**Por quê?**
 A ADEFIP conta com colaboradores voluntários e redes de apoio, promovendo parcerias fundamentais para implementar e escalar as soluções tecnológicas.
 
 17.17: Incentivar parcerias eficazes entre setores público, privado e sociedade civil.
-** Por quê? **
+**Por quê?**
 O projeto depende da colaboração entre diferentes atores para desenvolver e aplicar as tecnologias necessárias para melhorar os serviços.
 
 _______________________________________________________________________________________________________________________________________________________________
