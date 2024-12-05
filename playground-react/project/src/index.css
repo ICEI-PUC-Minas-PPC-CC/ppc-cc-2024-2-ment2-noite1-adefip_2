@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+    font-family: 'Comico';
+    src: url('./assets/font/fonts/Comico-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@layer base {
+    .font-minha-fonte {
+        font-family: 'Comico', sans-serif;
+    }
+}

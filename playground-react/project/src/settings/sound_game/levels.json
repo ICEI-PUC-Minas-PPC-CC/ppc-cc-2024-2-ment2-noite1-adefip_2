@@ -1,0 +1,59 @@
+{
+  "fases": [
+    {
+      "id": 1,
+      "audio": "src/assets/audio/Cachorro.mpeg",
+      "pergunta": "Qual é o som do animal?",
+      "opcoes": [
+        { "id": 1, "texto": "Leão", "correta": false },
+        { "id": 2, "texto": "Elefante", "correta": false },
+        { "id": 3, "texto": "Cachorro", "correta": true },
+        { "id": 4, "texto": "Gato", "correta": false }
+      ]
+    },
+    {
+      "id": 2,
+      "audio": "src/assets/audio/Elefante.mpeg",
+      "pergunta": "Qual é o som do animal?",
+      "opcoes": [
+        { "id": 1, "texto": "Galo", "correta": false },
+        { "id": 2, "texto": "Cavalo", "correta": false },
+        { "id": 3, "texto": "Elefante", "correta": true },
+        { "id": 4, "texto": "Pato", "correta": false }
+      ]
+    },
+    {
+      "id": 3,
+      "audio": "src/assets/audio/Galo.mpeg",
+      "pergunta": "Qual é o som do animal?",
+      "opcoes": [
+        { "id": 1, "texto": "Cachorro", "correta": false },
+        { "id": 2, "texto": "Galo", "correta": true },
+        { "id": 3, "texto": "Gato", "correta": false },
+        { "id": 4, "texto": "Macaco", "correta": false }
+      ]
+    },
+    {
+      "id": 4,
+      "audio": "src/assets/audio/Grilo.mpeg",
+      "pergunta": "Qual é o som do animal?",
+      "opcoes": [
+        { "id": 1, "texto": "Cachorro", "correta": false },
+        { "id": 2, "texto": "Grilo", "correta": true },
+        { "id": 3, "texto": "Sapo", "correta": false },
+        { "id": 4, "texto": "Macaco", "correta": false }
+      ]
+    },
+    {
+      "id": 5,
+      "audio": "src/assets/audio/Sapo.mpeg",
+      "pergunta": "Qual é o som do animal?",
+      "opcoes": [
+        { "id": 1, "texto": "Gato", "correta": false },
+        { "id": 2, "texto": "Cachorro", "correta": false },
+        { "id": 3, "texto": "Sapo", "correta": true },
+        { "id": 4, "texto": "Galo", "correta": false }
+      ]
+    }
+  ]
+}
