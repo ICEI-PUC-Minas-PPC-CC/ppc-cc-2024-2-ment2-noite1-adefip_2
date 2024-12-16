@@ -1,116 +1,12 @@
 # OBJETIVO DE DESENVOLVIMENTO SUSTENTÁVEL (ODS)
 
-## ODS 3: Saúde e Bem-Estar
- Objetivo:
-Assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+A execução deste projeto visa, além de uma ferramenta de apoio ao desenvolvimento de pessoas portadoras de paralisia cerebral atendidas pela instituição ADEFIP, uma contribuição atrelada aos Objetivos de Desenvolvimento Sustentável proposto em 2015 pela Organização das Nações Unidas para a Agenda de 2030 (ONU, 2024).
+Dentre os 17 objetivos propostos na Agenda 2030 (ONU, 2018), nosso projeto está alinhado com as ODS 3, 4 e 10, como descrito a seguir:
 
- Sub-objetivos:
-3.8: Alcançar a cobertura universal de saúde, incluindo o acesso a serviços de saúde essenciais de qualidade.
+ODS 3 – Saúde e Bem-estar: Garantir o acesso à saúde de qualidade e promover o bem-estar para todos, em todas as idades. Nesta ODS, o projeto corrobora com o objetivo específico 3.8 no que se diz respeito a cobertura universal de saúde incluindo o acesso a serviços de saúde essenciais e de qualidade para todos, pois busca melhorar um dos serviços de reabilitação referência da macrorregião de atendimento pelo SUS, proporcionando uma intervenção multidisciplinar para pessoas com deficiência, garantindo acesso a atendimento especializado e personalizado.
 
-**Por quê?**
+Alinhado a está ODS e também a ODS 4 - Garantir o acesso à educação inclusiva, de qualidade e equitativa, e promover oportunidades de aprendizagem ao longo da vida para todos, o nosso projeto busca a implementação de tecnologias para o aprendizado, melhorando não só o processo de desenvolvimento dos portadores de paralisia cerebral atendidos pela ADEFIP, mas como uma ferramenta de apoio para oferecer serviços mais eficientes e modernos. Assim, dentre os objetivos específicos, o projeto corresponde prioritariamente ao 4.5 e 4.a que diz respeito a eliminar disparidades na educação e garantir acesso igualitário para pessoas com deficiência e, construir instalações educacionais inclusivas que atendam às necessidades de pessoas com deficiência. O projeto visa contribuir para a inclusão escolar, especialmente ao desenvolver soluções tecnológicas que melhoram o aprendizado e a interação para portadores de deficiência atendidos na instituição. Além disso, o uso de tecnologias inovadoras na ADEFIP promove um ambiente mais acessível e inclusivo, integrando ferramentas que facilitam o desenvolvimento educacional.
 
-O projeto busca melhorar os serviços de reabilitação e intervenções multidisciplinares para pessoas com deficiência, garantindo acesso a atendimento especializado e personalizado.
-
-3.C: Aumentar o financiamento da saúde e a capacitação de profissionais de saúde.
-
-**Por quê?**
-
-A implementação de tecnologias melhora a formação dos profissionais da ADEFIP, capacitando-os a oferecer serviços mais eficientes e modernos.
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-## ODS 4: Educação de Qualidade
-Objetivo:
-Garantir a educação inclusiva, equitativa e de qualidade, e promover oportunidades de aprendizagem ao longo da vida para todos.
-
-Sub-objetivos:
-4.5: Eliminar disparidades na educação e garantir acesso igualitário para pessoas com deficiência.
-
-**Por quê?**
-
-O projeto visa contribuir para a inclusão escolar, especialmente ao desenvolver soluções tecnológicas que melhoram o aprendizado e a interação para crianças com deficiência.
-
-4.A: Construir instalações educacionais inclusivas que atendam às necessidades de pessoas com deficiência.
-
-**Por quê?**
-
-O uso de tecnologias inovadoras na ADEFIP promove ambientes mais acessíveis e inclusivos, integrando ferramentas que facilitam o desenvolvimento educacional.
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-## ODS 8: Trabalho Decente e Crescimento Econômico
-Objetivo:
-Promover o crescimento econômico sustentado, inclusivo e sustentável, emprego pleno e produtivo, e trabalho decente para todos.
-
-Sub-objetivos:
-8.5: Garantir trabalho decente e produtivo para pessoas com deficiência, com remuneração igual por trabalho de igual valor.
-
-**Por quê?**
-
-O projeto aborda a inclusão profissional, capacitando indivíduos com deficiência para participarem ativamente no mercado de trabalho.
-
-8.6: Reduzir a proporção de jovens sem emprego, educação ou formação.
-
-**Por quê?**
-
-Ao investir em reabilitação e inclusão, o projeto cria oportunidades de desenvolvimento para jovens com deficiência, ajudando-os a se integrar à sociedade.
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-## ODS 9: Indústria, Inovação e Infraestrutura
-Objetivo:
-Construir infraestruturas resilientes, promover a industrialização inclusiva e sustentável, e fomentar a inovação.
-
-Sub-objetivos:
-9.4: Modernizar a infraestrutura para torná-la mais sustentável e eficiente.
-
-**Por quê?**
-
-A solução tecnológica que está desenvolvimento modernizam os processos e serviços da ADEFIP, aumentando sua eficiência.
-
-9.5: Melhorar a capacidade tecnológica e promover a inovação.
-
-**Por quê?**
-
-O projeto incentiva o uso de tecnologias avançadas para atender às necessidades específicas de pessoas com deficiência, fomentando a inovação no setor social.
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-## ODS 10: Redução das Desigualdades
-Objetivo:
-Reduzir as desigualdades dentro dos países e entre eles.
-
-Sub-objetivos:
-10.2: Promover a inclusão social, econômica e política para todos.
-
-**Por quê?**
-
-O projeto empodera pessoas com deficiência por meio de soluções que promovem sua inclusão em diversas esferas sociais, educacionais e profissionais.
-
-10.3: Garantir oportunidades iguais, eliminando práticas discriminatórias.
-
-**Por quê?**
-
-Ao criar soluções personalizadas, o projeto reduz barreiras enfrentadas por pessoas com deficiência, promovendo igualdade de oportunidades.
-
------------------------------------------------------------------------------------------------------------------------------------------
-
-## ODS 17: Parcerias e Meios de Implementação
-Objetivo:
-Fortalecer os meios de implementação e revitalizar a parceria global para o desenvolvimento sustentável.
-
-Sub-objetivos:
-17.16: Reforçar parcerias globais para o desenvolvimento sustentável.
-
-**Por quê?**
-
-A ADEFIP conta com colaboradores voluntários e redes de apoio, promovendo parcerias fundamentais para implementar e escalar as soluções tecnológicas.
-
-17.17: Incentivar parcerias eficazes entre setores público, privado e sociedade civil.
-
-**Por quê?**
-
-O projeto depende da colaboração entre diferentes atores para desenvolver e aplicar as tecnologias necessárias para melhorar os serviços.
-
+Se hoje, nota-se uma realidade ainda de desigualdades às pessoas portadoras de deficiência, que, conforme a Agenda 2030 na ODS 10 - Reduzir as desigualdades no interior dos países e entre países, é de suma importância criar estratégias e ferramentas de apoio ao processo de desenvolvimento dessa população, garantindo assim que elas tenham acesso nos mesmos níveis de outras pessoas. A integração da tecnologia, como o nosso projeto, proporciona uma oportunidade para a redução dessas desigualdades no meio educacional e de aprendizado rotineiro. Assim como o SUS visa a equidade, atendendo cada pessoa de acordo com a sua necessidade específica, o nosso projeto buscou olhar para o aprendizado através do uso da tecnologia como uma ferramenta tanto para o profissional de saúde utilizar durante a assistência quanto para ser acessível ao portador de deficiência utilizar no seu processo de aprendizado atrelando a tecnologia de forma lúdica e clara a situações e reconhecimentos básicos do mundo e de si próprio.
 _______________________________________________________________________________________________________________________________________________________________
 
